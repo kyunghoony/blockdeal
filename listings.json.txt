@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dummy_listing_1",
+    "companyName": "야놀자",
+    "price": 35700,
+    "quantity": 1000,
+    "contactInfo": "010-1111-1111",
+    "status": "Verified",
+    "sellerId": "dummy_seller_1",
+    "sellerEmail": "seller1@yanolja.com",
+    "createdAt": "2024-07-01T10:00:00Z"
+  },
+  {
+    "id": "dummy_listing_2",
+    "companyName": "무신사",
+    "price": 18900,
+    "quantity": 2000,
+    "contactInfo": "010-2222-2222",
+    "status": "Verified",
+    "sellerId": "dummy_seller_2",
+    "sellerEmail": "seller2@musinsa.com",
+    "createdAt": "2024-07-02T11:00:00Z"
+  },
+  {
+    "id": "dummy_listing_3",
+    "companyName": "토스",
+    "price": 75000,
+    "quantity": 500,
+    "contactInfo": "010-5555-5555",
+    "status": "Verified",
+    "sellerId": "dummy_seller_5",
+    "sellerEmail": "seller5@toss.im",
+    "createdAt": "2024-07-03T12:00:00Z"
+  },
+  {
+    "id": "dummy_listing_4",
+    "companyName": "당근마켓",
+    "price": 42000,
+    "quantity": 1200,
+    "contactInfo": "010-6666-6666",
+    "status": "Verified",
+    "sellerId": "dummy_seller_6",
+    "sellerEmail": "seller6@daangn.com",
+    "createdAt": "2024-07-04T13:00:00Z"
+  },
+  {
+    "id": "dummy_listing_5",
+    "companyName": "직방",
+    "price": 24000,
+    "quantity": 800,
+    "contactInfo": "010-3333-3333",
+    "status": "Pending Review",
+    "sellerId": "dummy_seller_3",
+    "sellerEmail": "seller3@zigbang.com",
+    "createdAt": "2024-07-05T14:00:00Z"
+  },
+  {
+    "id": "dummy_listing_6",
+    "companyName": "오늘의집",
+    "price": 28500,
+    "quantity": 700,
+    "contactInfo": "010-7777-7777",
+    "status": "Pending Review",
+    "sellerId": "dummy_seller_7",
+    "sellerEmail": "seller7@bucketplace.net",
+    "createdAt": "2024-07-06T15:00:00Z"
+  }
+]

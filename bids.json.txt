@@ -1,0 +1,35 @@
+[
+  {
+    "id": "dummy_bid_1",
+    "companyName": "컬리",
+    "price": 55000,
+    "quantity": 500,
+    "contactInfo": "010-4444-4444",
+    "status": "Listed",
+    "buyerId": "dummy_buyer_1",
+    "buyerEmail": "buyer1@kurlycorp.com",
+    "createdAt": "2024-07-01T10:30:00Z"
+  },
+  {
+    "id": "dummy_bid_2",
+    "companyName": "야놀자",
+    "price": 35000,
+    "quantity": 500,
+    "contactInfo": "010-8888-8888",
+    "status": "Listed",
+    "buyerId": "dummy_buyer_2",
+    "buyerEmail": "buyer2@gmail.com",
+    "createdAt": "2024-07-02T11:30:00Z"
+  },
+  {
+    "id": "dummy_bid_3",
+    "companyName": "무신사",
+    "price": 18500,
+    "quantity": 1000,
+    "contactInfo": "010-9999-9999",
+    "status": "Listed",
+    "buyerId": "dummy_buyer_3",
+    "buyerEmail": "buyer3@naver.com",
+    "createdAt": "2024-07-03T12:30:00Z"
+  }
+]
